@@ -1,2 +1,2 @@
-# Quiz-app
+# Calculator
 this is a Quiz-app in this we paly a game of questions
