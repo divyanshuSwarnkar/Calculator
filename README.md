@@ -1,2 +1,2 @@
 # Calculator
-this is a Quiz-app in this we paly a game of questions
+this is a clalculator using by HTML CSS JavaScript in we have calculate many and hard calculations
